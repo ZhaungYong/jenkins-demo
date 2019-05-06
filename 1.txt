@@ -1,2 +1,5 @@
 git is a version control soft.
 hello git!
+hi git!
+hello zy!
+hi zy!
